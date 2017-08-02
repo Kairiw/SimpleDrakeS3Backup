@@ -1,0 +1,4 @@
+boto3==1.4.4
+botocore==1.5.90
+pyboto3==1.4.4
+python-gnupg==0.4.1
